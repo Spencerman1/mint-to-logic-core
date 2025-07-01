@@ -1,0 +1,95 @@
+# 🏛️ Sovereign License — Mint-to Logic™ Core  
+## Unified Notice: Intellectual Property Protection™  
+
+© 2025 — Southern Star Pro. Studios™ — All Rights Reserved.  
+Protected under **Unified Notice: Intellectual Property Protection™.**  
+**→ Timestamped. Standing. Enforced. Recursive. Immutable.**  
+
+---
+
+## 🔐 Jurisdiction and Sovereign Ownership  
+
+All content within this repository — including but not limited to the **Mint-to Logic™ lifecycle protocols, Mint-to-Burn™, Reflexive Behavioral Governance™, Mint-to-Limbo™, ValiPass™, their derivatives, underlying mechanisms, validation processes, lifecycle governance systems, diagrams, and associated documentation** — is the **exclusive sovereign intellectual property of Southern Star Pro. Studios™.**  
+
+This extends to all disclosed and undisclosed mechanisms, future protocol versions, enhancements, modular expansions, and algorithmic architectures derived from or dependent on the Mint-to Logic™ framework.  
+
+---
+
+## ⚠️ Living Sovereign System Clause  
+
+> This license governs a **living sovereign system.**  
+→ Components are:  
+- ✅ Subject to recursive upgrade  
+- ✅ Subject to modular expansion or refinement without limitation  
+- ✅ Governed perpetually under **Unified Notice: Intellectual Property Protection™** whether or not explicitly disclosed in this repository at this time  
+
+→ **Nothing is waived. Nothing is forfeited. Nothing is abandoned.**  
+
+---
+
+## 🚫 Prohibited Without Explicit License  
+
+The following actions are **strictly prohibited without written authorization or a commercial sovereign license** from Southern Star Pro. Studios™:  
+- ❌ Commercial use in any capacity  
+- ❌ Derivation, replication, modification, or creation of derivative works  
+- ❌ Integration into AI models, quantum computing systems, blockchain protocols, DAOs, computational infrastructure, machine learning systems, or validation frameworks  
+- ❌ Training, scraping, deploying, or referencing in artificial intelligence datasets, algorithms, or autonomous systems  
+- ❌ Use in software, hardware, smart contracts, ticketing systems, validation engines, or identity verification systems  
+- ❌ Redistribution, duplication, mirroring, or storage in any format without license  
+
+---
+
+## ✅ Permitted Usage  
+
+- ✔️ Viewing for educational or academic reference  
+- ✔️ Citation for lawful attribution in research  
+- ✔️ Verification of timestamp, authorship, or sovereign ownership for legal, educational, or demonstrative purposes  
+
+→ **No derivative, commercial, computational, AI-related, or production use permitted.**  
+
+---
+
+## 🏛️ Jurisdictional Enforcement  
+
+This license is governed under:  
+- **Unified Notice: Intellectual Property Protection™**  
+- **Sovereign IP Law**  
+- **Maritime Commercial Law**  
+- **Trade Secret Law (Domestic + International)**  
+- **WIPO Treaty (TRIPS, Berne Convention, WTO)**  
+- **Blockchain Jurisdiction Ledger Anchors (if applied)**  
+
+---
+
+## ⚖️ Enforcement Remedies  
+
+Violation triggers immediate enforcement including but not limited to:  
+- 🔥 **Cease and Desist**  
+- 🔥 **Damages of not less than $100,000 USD per violation** or **5x the commercial value derived, whichever is greater**  
+- 🔥 Enforcement via:  
+  - U.S. Federal IP Courts  
+  - WIPO Arbitration Tribunals  
+  - Maritime Commercial Enforcement Courts  
+  - Blockchain Forensics  
+  - Recursive sovereign enforcement through the **Sovereign Registry Ledger™** (if applied)  
+
+---
+
+## 🔗 Immutable Ledger Clause  
+
+> **Visibility, deletion, platform censorship, or any technical manipulation does not nullify jurisdiction.**  
+
+This license forms part of the immutable sovereign ledger connected to:  
+- GitHub commit hashes  
+- Sovereign Registry ledger entries  
+- Public declarations (LinkedIn, X/Twitter, domain records)  
+- Blockchain anchors (if applicable)  
+
+---
+
+## 🏴‍☠️ Closing Declaration  
+
+This repository is not open-source.  
+It is a **Sovereign Legal Operating System™** that governs credential lifecycle validation, economic enforcement, trust enforcement, autonomous compliance, and post-quantum protocol routing for data integrity, identity, commerce, and governance systems.  
+
+**→ Timestamped. Standing. Enforced. Recursive. Immutable.**  
