@@ -28,3 +28,22 @@ This code is shared solely for **timestamping, protected collaboration, and acad
 ---
 
 © Southern Star Pro. Studios LLC. All rights reserved.
+## 🏛️ Jurisdiction and Enforcement  
+
+This repository functions as an official sovereign IP ledger under:  
+- **Unified Notice: Intellectual Property Protection™**  
+- **U.S. Intellectual Property Law**  
+- **WIPO Treaty, TRIPS, Berne Convention**  
+- **Maritime Commercial Law and Trade Secret Law**  
+
+**→ Timestamped. Standing. Enforced.**  
+
+All rights are fully reserved, including but not limited to undisclosed derivatives, protocol evolutions, mechanisms, and future extensions of Mint-to Logic™ lifecycle systems.  
+
+**Any infringement activates sovereign enforcement protocols, including but not limited to:**  
+- Immediate Cease & Desist  
+- Damages not less than **$100,000 USD per violation** or **5x commercial value derived**, whichever is greater  
+- Enforcement via U.S. Federal IP Courts, WIPO arbitration, Maritime commercial courts, and blockchain forensic evidence (where applicable)  
+
+→ **This is a Sovereign Legal Operating System™.**  
+**→ Timestamped. Standing. Enforced. Immutable. Recursive.**  
